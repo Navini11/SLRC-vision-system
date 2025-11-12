@@ -54,7 +54,7 @@ This guide will help you set up your Raspberry Pi 4 Model B to run a project usi
 ## Prerequisites
 
 1. Raspberry Pi 4 Model B with Raspbian OS installed.
-2. Internet connection.
+2. Internet connection(wifi or hotspot).
 
 ## Step-by-Step Setup
 
